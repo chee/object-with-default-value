@@ -1,0 +1,9 @@
+{
+  "name": "object-with-default-value",
+  "version": "1.0.0",
+  "description": "create an object with a default value (uses Proxy)",
+  "main": "index.js",
+  "author": "chee <chee@snake.dog>",
+  "license": "MIT",
+  "repository": "https://github.com/chee/object-with-default-value"
+}
