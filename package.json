@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "create an object with a default value (uses Proxy)",
   "main": "index.js",
-  "author": "chee <chee@snake.dog>",
+  "author": "chee <yay@chee.party>",
   "license": "MIT",
   "repository": "https://github.com/chee/object-with-default-value"
 }
